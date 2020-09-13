@@ -20,7 +20,7 @@
 import HomeTabs from "../components/HomeTabs.vue";
 import HomeArticleCard from "../components/HomeArticleCard.vue";
 import HomeTags from "../components/HomeTags.vue";
-import { fetchArticles, fetchTags } from "../common/api.js";
+// import { fetchArticles, fetchTags } from "../common/api.js";
 import agent from "../common/agent.js";
 
 export default {

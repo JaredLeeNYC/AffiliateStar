@@ -1,0 +1,2 @@
+# AffiliateStar
+Created with CodeSandbox

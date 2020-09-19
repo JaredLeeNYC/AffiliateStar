@@ -11,7 +11,7 @@
           alt="Debt Relief Services"
           border="0"
         >
-        <h2 class="text-center text-blue-600 pb-4">>>点击完成今日任务<<</h2>
+        <h2 class="text-center text-blue-600 pb-4 underline">点击完成今日任务</h2>
       </a>
       <!-- <h4 class="text-center text-white pt-6 pb-8 text-lg">A place to start your affiliate career</h4> -->
       <img

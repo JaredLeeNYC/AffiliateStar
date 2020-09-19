@@ -1,8 +1,23 @@
 <template>
   <div>
     <div class="w-full bg-green-500">
-      <h1 class="text-5xl font-bold text-center text-white pt-8">Affiliate Star✨</h1>
-      <h4 class="text-center text-white pt-6 pb-8 text-lg">A place to start your affiliate career</h4>
+      <h1 class="text-5xl font-bold text-center text-white pt-8">CuraDebt</h1>
+      <a href="https://www.anrdoezrs.net/click-100220978-10974558" target="_top">
+        <img
+          class="mx-auto pb-12"
+          src="https://www.lduhtrp.net/image-100220978-10974558"
+          width="300"
+          height="250"
+          alt="Debt Relief Services"
+          border="0"
+        >
+      </a>
+      <!-- <h4 class="text-center text-white pt-6 pb-8 text-lg">A place to start your affiliate career</h4> -->
+      <img
+        class="mx-auto pb-12"
+        src="https://firebasestorage.googleapis.com/v0/b/ic-75954.appspot.com/o/affiliate%2Fcuralp1.jpg?alt=media&token=7409fa04-0891-4061-87cc-46fe58b236e2"
+        alt="a"
+      >
     </div>
     <div class="max-w-screen-lg w-4/5 mx-auto flex items-start flex-wrap lg:flex-no-wrap">
       <div class="mt-8 w-full flex-shrink-0 lg:w-4/5 lg:flex-shrink">

@@ -4,13 +4,14 @@
       <h1 class="text-5xl font-bold text-center text-white pt-8">CuraDebt</h1>
       <a href="https://www.anrdoezrs.net/click-100220978-10974558" target="_top">
         <img
-          class="mx-auto pb-12"
+          class="mx-auto pb-4"
           src="https://www.lduhtrp.net/image-100220978-10974558"
           width="300"
           height="250"
           alt="Debt Relief Services"
           border="0"
         >
+        <h2 class="text-center text-blue-600 pb-4">>>点击完成今日任务<<</h2>
       </a>
       <!-- <h4 class="text-center text-white pt-6 pb-8 text-lg">A place to start your affiliate career</h4> -->
       <img
